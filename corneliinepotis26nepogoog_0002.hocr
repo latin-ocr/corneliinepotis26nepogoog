@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corneliinepotis26nepogoog_0002.png"; bbox 0 0 2817 4250; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 653 2082 1898 2228">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 653 2082 1898 2228">
+     <span class='ocr_line' id='line_1_1' title="bbox 653 2082 1898 2228; baseline -0.001 -19"><span class='ocrx_word' id='word_1_1' title='bbox 653 2113 1076 2211; x_wconf 68' lang='lat' dir='ltr'><strong>batvatb‘</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1111 2126 1465 2225; x_wconf 69' lang='lat' dir='ltr'>OEoueoe</span> <span class='ocrx_word' id='word_1_3' title='bbox 1492 2082 1898 2228; x_wconf 61' lang='lat' dir='ltr'>libram</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1187 2349 1364 2395">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1187 2349 1364 2395">
+     <span class='ocr_line' id='line_1_2' title="bbox 1187 2349 1364 2395; baseline 0 -1"><span class='ocrx_word' id='word_1_4' title='bbox 1187 2349 1364 2395; x_wconf 78' lang='lat' dir='ltr'>FROM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 626 2478 2023 2709">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 626 2478 2023 2709">
+     <span class='ocr_line' id='line_1_3' title="bbox 626 2478 2023 2603; baseline 0 -4"><span class='ocrx_word' id='word_1_5' title='bbox 626 2478 1362 2603; x_wconf 49' lang='lat' dir='ltr'><strong>sff-Assofi‘o„</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1365 2591 1448 2599; x_wconf 74' lang='lat'><em>.....</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1454 2558 1478 2586; x_wconf 68' lang='grc' dir='ltr'><strong>ο</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1493 2591 1918 2599; x_wconf 88' lang='grc'><strong>.......................</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2012 2572 2023 2581; x_wconf 82' lang='lat'><strong>·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1556 2666 1689 2709; baseline 0 -8"><span class='ocrx_word' id='word_1_10' title='bbox 1556 2666 1600 2701; x_wconf 80' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1680 2673 1689 2709; x_wconf 61' lang='lat' dir='ltr'>u</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 68 2817 4240">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 68 2817 4240">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 68 2817 4240; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 68 2817 4240; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
